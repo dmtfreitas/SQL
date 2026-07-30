@@ -1,0 +1,1 @@
+mysqldump.exe --column-statistics=0 -h host -P port -u user -p database > backup.sql
